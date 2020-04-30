@@ -73,7 +73,7 @@ export default {
         padding: 20px;
     }
     .cinema_body li{
-        border-bottom: 1px solid #empty-cells: 6em 6em 6px;
+        border-bottom: 1px solid; #empty-cells: 6em 6em 6px;
         margin-bottom: 20px;
     }
     .cinema_body div{
